@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/forkbyte_assignment/static/css/main.d6c643b9.css",
+    "main.js": "/forkbyte_assignment/static/js/main.c8f40f54.js",
+    "index.html": "/forkbyte_assignment/index.html",
+    "main.d6c643b9.css.map": "/forkbyte_assignment/static/css/main.d6c643b9.css.map",
+    "main.c8f40f54.js.map": "/forkbyte_assignment/static/js/main.c8f40f54.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6c643b9.css",
+    "static/js/main.c8f40f54.js"
+  ]
+}
